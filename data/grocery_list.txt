@@ -1,0 +1,50 @@
+Apples
+Bananas
+Oranges
+Grapes
+Strawberries
+Blueberries
+Lemons
+Limes
+Tomatoes
+Cucumbers
+Carrots
+Broccoli
+Spinach
+Lettuce
+Kale
+Potatoes
+Sweet Potatoes
+Onions
+Garlic
+Bell Peppers
+Mushrooms
+Zucchini
+Eggplant
+Avocado
+Green Beans
+Peas
+Corn
+Rice
+Pasta
+Bread
+Milk
+Eggs
+Cheese
+Yogurt
+Butter
+Chicken
+Beef
+Pork
+Fish
+Shrimp
+Tofu
+Beans
+Lentils
+Canned Tomatoes
+Olive Oil
+Salt
+Pepper
+Sugar
+Flour
+Baking Powder

@@ -1,0 +1,64 @@
+Here are your grocery items, categorized, sorted alphabetically, and presented clearly:
+
+**Produce**
+* Apples
+* Avocado
+* Bananas
+* Bell Peppers
+* Blueberries
+* Broccoli
+* Carrots
+* Corn
+* Cucumbers
+* Garlic
+* Grapes
+* Green Beans
+* Kale
+* Limes
+* Lettuce
+* Lemons
+* Onions
+* Oranges
+* Peaches
+* Potatoes
+* Spinach
+* Sweet Potatoes
+* Strawberries
+* Tomatoes
+* Zucchini
+
+**Grains & Pasta**
+* Bread
+* Corn
+* Flour
+* Pasta
+* Rice 
+
+**Dairy & Eggs**
+* Butter
+* Cheese
+* Eggs
+* Milk
+* Yogurt
+
+**Meat & Seafood**
+* Beef
+* Chicken
+* Fish
+* Pork
+* Shrimp
+* Tofu
+
+**Legumes & Beans**
+* Beans
+* Lentils
+
+**Pantry Staples**
+* Baking Powder
+* Olive Oil
+* Pepper
+* Salt
+* Sugar
+
+
+Let me know if you'd like any further categorization or sorting!
