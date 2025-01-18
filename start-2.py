@@ -10,5 +10,9 @@ res = ollama.chat(
             'content': 'why is the sky blue?'
         }
     ],
+    stream=True
 )
-print(res['message']['content'])
+# print(res['message']['content'])
+
+for chunk in res:
+    print(chunk['message']['content'], end='', flush=True)
